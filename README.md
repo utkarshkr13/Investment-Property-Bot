@@ -1,16 +1,16 @@
 ### Investment Property Bot
 
 #### Overview
-This project aims to create an AI investment property bot using Crew AI, OpenHermes, and LLAMA. The bot automates property research tasks by gathering data on potential investment properties, including mean prices, rental yields, vacancy rates, and background information on suburbs. 
+This project aims to create an AI investment property bot using Crew AI, OpenHermes, and OLLAMA. The bot automates property research tasks by gathering data on potential investment properties, including mean prices, rental yields, vacancy rates, and background information on suburbs. 
 
 #### Technologies Used
 - **Crew AI**: Utilized for orchestrating autonomous AI agents to perform various tasks.
 - **OpenHermes**: Enables natural language processing for interacting with the bot.
-- **LLAMA**: Provides language model capabilities for understanding and generating text.
+- **OLLAMA**: Provides language model capabilities for understanding and generating text.
 
 #### Packages
 - **Crew AI Tools**: Used for accessing the internet and retrieving property data.
-- **LangChain**: Imports LLAMA for language model capabilities.
+- **LangChain**: Imports OLLAMA for language model capabilities.
 
 #### Features
 - **Agent-based Architecture**: Implements a multi-agent framework to manage different tasks efficiently.
