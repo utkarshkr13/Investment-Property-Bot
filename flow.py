@@ -22,6 +22,7 @@ task1 = Task(
     Rental Yield=2.9%
     Background information: These suburbs are typically located near major transport hubs, employment centres and educational institutions.The following list highlights some of the top contenders for investment opportunities""",
     agent=researcher,
+    output_file='task1_output.txt',
 )
 crew= Crew(agents=[researcher],tasks=[task1],verbose=2)
 

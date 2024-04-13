@@ -1,0 +1,29 @@
+Suburb 1: Randosuburbville
+Mean Price: $1,200,000
+Rental Vacancy: 4.2%
+Rental Yield: 2.9%
+Background information: These suburbs are typically located near major transport hubs, employment centres and educational institutions. Randosuburbville is a vibrant suburb in Sydney with a thriving business district and several prestigious schools. It offers excellent access to public transportation, with multiple train stations and bus routes serving the area. The suburb also boasts numerous parks, cafes, and shopping centers, making it an attractive place for families and professionals alike.
+
+Suburb 2: Neatville
+Mean Price: $950,000
+Rental Vacancy: 3.7%
+Rental Yield: 3.4%
+Background information: Neatville is a popular suburb in Sydney known for its affordable housing and family-friendly atmosphere. It is situated close to several major employment centers, making it an attractive option for commuters. The area has excellent schools, parks, and recreational facilities, as well as a bustling retail district. Additionally, Neatville is well-connected to the rest of Sydney via public transportation.
+
+Suburb 3: Prospersville
+Mean Price: $1,500,000
+Rental Vacancy: 2.8%
+Rental Yield: 3.9%
+Background information: Prospersville is a highly sought-after suburb in Sydney, thanks to its proximity to major employment centers and top-rated schools. The area has a strong rental market due to its popularity among professionals and families. Prospersville offers excellent access to public transportation and is home to a variety of shopping and dining options.
+
+Suburb 4: Greensvale
+Mean Price: $1,800,000
+Rental Vacancy: 3.5%
+Rental Yield: 2.6%
+Background information: Greensvale is a prestigious suburb in Sydney known for its large family homes and peaceful atmosphere. It offers excellent access to major employment centers, as well as several top-rated schools. The area boasts numerous parks and recreational facilities, making it an ideal location for families. Despite the higher mean price, Greensvale's strong rental market and desirable lifestyle make it a promising investment opportunity.
+
+Suburb 5: Riverside Haven
+Mean Price: $1,300,000
+Rental Vacancy: 4.5%
+Rental Yield: 3.2%
+Background information: Riverside Haven is a picturesque suburb in Sydney, characterized by its charming heritage architecture and scenic riverside location. It is well-connected to the rest of the city via public transportation and is home to several popular cafes and restaurants. While Riverside Haven's rental vacancy rate is slightly higher than some other suburbs on this list, its unique character and strong potential for appreciation make it a promising investment opportunity.
