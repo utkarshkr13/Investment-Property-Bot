@@ -1,29 +1,47 @@
-Suburb 1: Randosuburbville
-Mean Price: $1,200,000
-Rental Vacancy: 4.2%
-Rental Yield: 2.9%
-Background information: These suburbs are typically located near major transport hubs, employment centres and educational institutions. Randosuburbville is a vibrant suburb in Sydney with a thriving business district and several prestigious schools. It offers excellent access to public transportation, with multiple train stations and bus routes serving the area. The suburb also boasts numerous parks, cafes, and shopping centers, making it an attractive place for families and professionals alike.
+Suburb 1: Mt Druitt (Unit)
+Mean Price: $420,000
+Rental Vacancy Rate: 3.8%
+Rental Yield: -3.4%
+Background information: Located approximately 46 kilometers west of Sydney's Central Business District (CBD), Mt Druitt is a suburb undergoing significant urban renewal, with new developments and infrastructure projects planned or currently underway. The suburb is well-served by public transport options, with multiple bus routes and the nearby Blacktown and Quakers Hill train stations providing access to the wider Sydney region.
 
-Suburb 2: Neatville
-Mean Price: $950,000
-Rental Vacancy: 3.7%
-Rental Yield: 3.4%
-Background information: Neatville is a popular suburb in Sydney known for its affordable housing and family-friendly atmosphere. It is situated close to several major employment centers, making it an attractive option for commuters. The area has excellent schools, parks, and recreational facilities, as well as a bustling retail district. Additionally, Neatville is well-connected to the rest of Sydney via public transportation.
-
-Suburb 3: Prospersville
-Mean Price: $1,500,000
-Rental Vacancy: 2.8%
-Rental Yield: 3.9%
-Background information: Prospersville is a highly sought-after suburb in Sydney, thanks to its proximity to major employment centers and top-rated schools. The area has a strong rental market due to its popularity among professionals and families. Prospersville offers excellent access to public transportation and is home to a variety of shopping and dining options.
-
-Suburb 4: Greensvale
-Mean Price: $1,800,000
-Rental Vacancy: 3.5%
-Rental Yield: 2.6%
-Background information: Greensvale is a prestigious suburb in Sydney known for its large family homes and peaceful atmosphere. It offers excellent access to major employment centers, as well as several top-rated schools. The area boasts numerous parks and recreational facilities, making it an ideal location for families. Despite the higher mean price, Greensvale's strong rental market and desirable lifestyle make it a promising investment opportunity.
-
-Suburb 5: Riverside Haven
-Mean Price: $1,300,000
-Rental Vacancy: 4.5%
+Suburb 2: Newtown (Unit)
+Mean Price: $720,000
+Rental Vacancy Rate: -3.4%
 Rental Yield: 3.2%
-Background information: Riverside Haven is a picturesque suburb in Sydney, characterized by its charming heritage architecture and scenic riverside location. It is well-connected to the rest of the city via public transportation and is home to several popular cafes and restaurants. While Riverside Haven's rental vacancy rate is slightly higher than some other suburbs on this list, its unique character and strong potential for appreciation make it a promising investment opportunity.
+Background information: Newtown is an inner-city suburb located approximately 5 kilometers south-west of Sydney's CBD. The area is known for its vibrant arts and culture scene, with a diverse range of cafes, restaurants, galleries, and entertainment venues. Newtown is well-served by public transport options, with multiple bus routes and the nearby Sydenham train station providing access to the wider Sydney region.
+
+Suburb 3: Coogee
+Mean Price: $2,350,000
+Rental Vacancy Rate: 2.1%
+Rental Yield: 2.1%
+Background information: Coogee is a coastal suburb located approximately 9 kilometers south of Sydney's CBD. The area is known for its beautiful beaches and nearby national parks, as well as its cafes, restaurants, and nightlife options. Coogee is well-served by public transport options, with multiple bus routes and the nearby Bondi Junction train station providing access to the wider Sydney region.
+
+Suburb 4: Maroubra
+Mean Price: $1,800,000
+Rental Vacancy Rate: 2.3%
+Rental Yield: 2.3%
+Background information: Maroubra is a coastal suburb located approximately 13 kilometers south of Sydney's CBD. The area is known for its beautiful beaches and nearby national parks, as well as its diverse community and family-friendly atmosphere. Maroubra is well-served by public transport options, with multiple bus routes and the nearby Cronulla train station providing access to the wider Sydney region.
+
+Suburb 5: Ashfield
+Mean Price: $1,700,000
+Rental Vacancy Rate: N/A
+Rental Yield: N/A
+Background information: Ashfield is an inner-city suburb located approximately 8 kilometers south-west of Sydney's CBD. The area is known for its diverse community, with a mix of residential, commercial, and retail spaces. Ashfield is well-served by public transport options, with multiple bus routes and the nearby Strathfield and Burwood train stations providing access to the wider Sydney region.
+
+Suburb 6: Dee Why
+Mean Price: $1,500,000
+Rental Vacancy Rate: N/A
+Rental Yield: N/A
+Background information: Dee Why is a coastal suburb located approximately 14 kilometers north of Sydney's CBD. The area is known for its beautiful beaches and nearby national parks, as well as its shopping and dining options. Dee Why is well-served by public transport options, with multiple bus routes and the nearby Brookvale and Mona Vale train stations providing access to the wider Sydney region.
+
+Suburb 7: Southport
+Mean Price: $1,200,000
+Rental Vacancy Rate: N/A
+Rental Yield: N/A
+Background information: Southport is a coastal suburb located approximately 64 kilometers north of Sydney's CBD. The area is known for its beautiful beaches and nearby national parks, as well as its relaxed lifestyle and recreational opportunities. Southport is well-served by public transport options, with multiple bus routes and the nearby Helensburgh train station providing access to the wider Sydney region.
+
+Suburb 8: Caloundra
+Mean Price: $560,000
+Rental Vacancy Rate: N/A
+Rental Yield: N/A
+Background information: Caloundra is a coastal suburb located approximately 100 kilometers north of Brisbane and 83 kilometers north-northeast of Sydney's CBD. The area is known for its beautiful beaches, nearby national parks, and family-friendly atmosphere. Caloundra is well-served by public transport options, with multiple bus routes and the nearby Landsborough train station providing access to the wider Sunshine Coast region.

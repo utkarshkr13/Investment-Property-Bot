@@ -3,14 +3,19 @@ from crewai import Agent, Task, Crew
 from crewai_tools import SerperDevTool
 from langchain_community.llms import Ollama
 
+os.environ["SERPER_API_KEY"]="072fa6c07f3b288330606fb3e3a10e7b9b61fd0c"
+
 llm=Ollama(model='openhermes')
+
+search_tool = SerperDevTool()
 
 researcher = Agent(
     llm=llm,
     role="Senior Property Researcher",
     goal="Find promising investment property.",
     backstory="you are veteran property analyst. In this case you're looking for retail properties to invest in.",
-    allow_delegation=False
+    allow_delegation=False,
+    tools=[search_tool]
 
 )
 task1 = Task(
