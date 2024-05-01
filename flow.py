@@ -3,7 +3,7 @@ from crewai import Agent, Task, Crew
 from crewai_tools import SerperDevTool
 from langchain_community.llms import Ollama
 
-os.environ["SERPER_API_KEY"]="072fa6c07f3b288330606fb3e3a10e7b9b61fd0c"
+os.environ["SERPER_API_KEY"]="api_key"
 
 llm=Ollama(model='openhermes')
 
